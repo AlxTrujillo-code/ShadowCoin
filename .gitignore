@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ShadowCoin-specific ignores
+wallet/keys/
+frontend/build/
+node_modules/
